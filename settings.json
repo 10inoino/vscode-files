@@ -1,0 +1,20 @@
+// .vscode/settings.json
+{
+  "makefile.extensionOutputFolder": "./.vscode",
+  "workbench.colorCustomizations": {
+    "activityBar.activeBackground": "#566FEB",
+    "activityBar.activeBorder": "#155E02",
+    "activityBar.background": "#566FEB",
+    "activityBar.foreground": "#E7E7E7",
+    "activityBar.inactiveForeground": "#E7E7E7",
+    "activityBarBadge.background": "#155E02",
+    "activityBarBadge.foreground": "#E7E7E7",
+    "statusBar.background": "#566FEB",
+    "statusBar.foreground": "#E7E7E7",
+    "statusBarItem.hoverBackground": "#566FEB",
+    "titleBar.activeBackground": "#566FEB",
+    "titleBar.activeForeground": "#E7E7E7",
+    "titleBar.inactiveBackground": "#566FEB",
+    "titleBar.inactiveForeground": "#E7E7E7"
+  }
+}
